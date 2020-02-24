@@ -10,7 +10,7 @@ export class RecipeListComponent implements OnInit {
   recipes = [
     new Recipe('A test Recipe',
     'Tset ',
-     'https://www.freepik.com/free-photo/colorful-healthy-unhealthy-food-white-textured-background_2955602.htm' )
+     'https://image.shutterstock.com/image-photo/frame-organic-food-fresh-raw-260nw-506516848.jpg' )
   ];
   constructor() { }
 
